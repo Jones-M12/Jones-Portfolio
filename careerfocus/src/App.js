@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import './App.css';
 import SideNavBar from './components/SideNavBar';
+import Home from './components/Home'
 
 
 
@@ -11,6 +12,7 @@ class App extends Component {
         <div id="container-wrap">
          	<SideNavBar></SideNavBar>
 				<div id="colorlib-main">
+          <Home></Home>
 					
           </div>
       	</div>
