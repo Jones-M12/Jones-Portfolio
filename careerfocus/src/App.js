@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import './App.css';
-import Sidebar from './components/SideNavBar'
+import SideNavBar from './components/SideNavBar';
+
 
 
 class App extends Component {
@@ -8,7 +9,7 @@ class App extends Component {
     return (
       <div id="colorlib-page">
         <div id="container-wrap">
-         	<Sidebar></Sidebar>
+         	<SideNavBar></SideNavBar>
 				<div id="colorlib-main">
 					
           </div>
