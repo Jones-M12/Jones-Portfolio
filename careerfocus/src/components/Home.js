@@ -9,7 +9,7 @@ function Home() {
                 
                 <div className="flexslider js-fullheight">
                     <ul className="slides">
-                    <li style={{backgroundColor: '#D3D3D3'}}>
+                    <li style={{backgroundColor: '#F5F5F5'}}>
                         <div className="overlay" />
                         <div className="container-fluid">
                         <div className="row">
@@ -24,7 +24,7 @@ function Home() {
                         </div>
                         </div>
                     </li>
-                    <li style={{backgroundColor: '#D3D3D3'}}>
+                    <li style={{backgroundColor: '#F5F5F5'}}>
                         <div className="overlay" />
                         <div className="container-fluid">
                         <div className="row">
