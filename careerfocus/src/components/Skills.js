@@ -124,6 +124,13 @@ function Skills() {
 							<h3>React</h3>
 						</div>
 					</div>
+					<div  className="col-md-3 animate-box" data-animate-effect="fadeInBottom">
+						<div  className="services color-4">
+							<p><img src="./images/handlebars.png" width="75" height="75" ></img></p>
+							<br></br>
+							<h3>Handlebars</h3>
+						</div>
+					</div>
 
 				</div>
 
