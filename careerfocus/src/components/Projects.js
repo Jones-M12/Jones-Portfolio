@@ -23,15 +23,17 @@ function Projects() {
           <div className="desc">
             <div className="con">
               <h3>Notes Application</h3>
+              
               <span>
-                <p>Allows a user to utilize an online notes application for writing, saving and deleting notes.</p>
-
-                <p>This easy to use application removes the need for hand written notes that can be lost or easily damaged.</p>
-
-                <p>Designed to input notes that are saved to local storage and can be deleted when ready.</p></span>
-                <br></br>
-                <hr></hr>
+                Allows a user to utilize an online notes application for writing, saving and deleting notes.
+                Easy to use application removes the need for hand written notes that can be lost or easily damaged.
+                Designed to input notes that are saved to local storage and can be deleted when ready.
+                
                 <p><strong>Technologies:</strong>  Node, Express, Handlebars, RESTful APIs, Backend, Heroku</p>
+                </span>
+               
+                <br></br>
+                
               <p className="icon">
                 <span><a href="https://notes-application-jones.herokuapp.com/" target="_blank"><i className="icon-share3" />Demo</a></span>
                 <span><a href="https://github.com/Jones-M12/Notes-Application-Jones" target="_blank"><i className="icon-eye" /> Github</a></span>
@@ -45,15 +47,14 @@ function Projects() {
         <div className="project" style={{backgroundImage: 'url(images/myfoodfriend-memberpage-nvabar.png)'}}>
           <div className="desc">
             <div className="con">
-              <h3>MyFoodFriend</h3>
-              <span>
-                <p>Need to track your food and calories? Well, MyFoodFriend is here to help!</p>
-                <p>Full Stack web application used to track your daily calories to help maintain weight loss goals.</p>
-                <p>The user can enter food eaten througout the day. On sumbit, the food item is logged, as well as the calories.</p>
-                <p>Food items can be deleted when no longer needed or if entered in the wrong meal section.</p>
-                <br></br>
-                <hr></hr>
-                <p><strong>Technologies:</strong> HTML, CSS, JQuery, MVC, MySQL, Node, Express, Handlebars, Materialize, RESTful APIs, Heroki</p>
+              MyFoodFriend
+              <span>                
+                Full Stack web application used to track your daily calories to help maintain weight loss goals.
+                The user can enter food eaten througout the day. On sumbit, the food item is logged, as well as the calories.
+                Food items can be deleted when no longer needed or if entered in the wrong meal section.
+                
+               
+                <strong>Technologies:</strong> HTML, CSS, JQuery, MVC, MySQL, Node, Express, Handlebars, Materialize, RESTful APIs, Heroku.
               </span>
               <p className="icon">
               <span><a href="https://myfoodfriend.herokuapp.com/" target="_blank"><i className="icon-share3" />Demo</a></span>
@@ -100,7 +101,7 @@ function Projects() {
                 <p><strong>Technologies:</strong> HTML, CSS, JS, Mongo Database, Zomato API, Spoonaclar API, Materialize</p>
               </span>
               <p className="icon">
-              <span><a href="https://tomay91.github.io/Group-Project-1/" target="_blank"><i className="icon-share3" />Demo</a></span>
+              <span><a href="https://tomay91.github.io/Foodacation-Project-1/" target="_blank"><i className="icon-share3" />Demo</a></span>
               <span><a href="https://github.com/tomay91/Group-Project-1" target="_blank"><i className="icon-eye" /> Github</a></span>
               </p>
             </div>
