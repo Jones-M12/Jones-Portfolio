@@ -22,12 +22,12 @@ function Projects() {
         <div className="project" style={{backgroundImage: 'url(images/notesapp.png'}}>
           <div className="desc">
             <div className="con">
-              <h3>Notes Application</h3>
+              Notes Application
               
               <span>
-                Allows a user to utilize an online notes application for writing, saving and deleting notes.
+                <p>Allows a user to utilize an online notes application for writing, saving and deleting notes.
                 Easy to use application removes the need for hand written notes that can be lost or easily damaged.
-                Designed to input notes that are saved to local storage and can be deleted when ready.
+                Designed to input notes that are saved to local storage and can be deleted when ready.</p>
                 
                 <p><strong>Technologies:</strong>  Node, Express, Handlebars, RESTful APIs, Backend, Heroku</p>
                 </span>
@@ -46,7 +46,7 @@ function Projects() {
       <div className="col-md-6 animate-box" data-animate-effect="fadeInRight">
         <div className="project" style={{backgroundImage: 'url(images/myfoodfriend-memberpage-nvabar.png)'}}>
           <div className="desc">
-            <div className="con">
+            <div className="con">              
               MyFoodFriend
               <span>                
                 Full Stack web application used to track your daily calories to help maintain weight loss goals.
@@ -68,15 +68,12 @@ function Projects() {
         <div className="project" style={{backgroundImage: 'url(images/drink-a-smoothie-demo.png)'}}>
           <div className="desc">
             <div className="con">
-              <h3>Drink A Smoothie</h3>
+              Drink A Smoothie
               <span>
-                <p>A fun way to log and track yummy smoothies that have been gobbled up in your tummy
-                  or still waiting to be devoured.</p>
-                <p>User will input a smootie which is logged in the uneaten category. Each smoothie with a button to toggle between </p>
-                <p>uneatern and devoured sections.</p>
-                <br></br>
-                <hr></hr>
-                <p><strong>Technologies:</strong> HTML, CSS, JS, MVC, MySQL, Node, Express, Handlebars, ORM, RESTful APIs, Heroku, Bootstrap</p>
+                <p>A fun way to log and track yummy smoothies that have been gobbled up in your tummy or still waiting to be devoured.
+                  User will input a smootie which is logged in the uneaten category. Each smoothie with a button to toggle between uneatern and devoured sections.
+                </p>                                
+                <strong>Technologies:</strong> HTML, CSS, JS, MVC, MySQL, Node, Express, Handlebars, ORM, RESTful APIs, Heroku, Bootstrap
               </span>
               <p className="icon">
               <span><a href="https://peaceful-oasis-89026.herokuapp.com/" target="_blank"><i className="icon-share3" />Demo</a></span>
@@ -91,14 +88,15 @@ function Projects() {
         <div className="project" style={{backgroundImage: 'url(images/foodacationdemo.png)'}}>
           <div className="desc">
             <div className="con">
-              <h3>Foodacation</h3>
+              Foodacation
               <span>
-                <p>Designed for your vacation needs! Use Foodaction while traveling to decide on eating in or dinning out.</p>
-                <p>User can toggle between the receipes or restaurants page. </p>
-                <p>Each page contains a input field and search button. On click, the results display on the right side of the page.</p>
-                <br></br>
-                <hr></hr>
-                <p><strong>Technologies:</strong> HTML, CSS, JS, Mongo Database, Zomato API, Spoonaclar API, Materialize</p>
+                <p>
+                  Designed for your vacation needs! Use Foodaction while traveling to decide on eating in or dinning out.
+                  User can toggle between the receipes or restaurants page.
+                  Each page contains a input field and search button. On click, the results display on the right side of the page.
+                </p>
+                                               
+                <p><strong>Technologies:</strong> HTML, CSS, JQuery, Mongo Database, Zomato API, Spoonaclar API, Materialize</p>
               </span>
               <p className="icon">
               <span><a href="https://tomay91.github.io/Foodacation-Project-1/" target="_blank"><i className="icon-share3" />Demo</a></span>
@@ -112,16 +110,18 @@ function Projects() {
         <div className="project" style={{backgroundImage: 'url(images/budgettracker.png)'}}>
           <div className="desc">
             <div className="con">
-              <h3>Budget Tracker</h3>
+              Budget Tracker
               <span>
-                <p>Forget all about using a checkbook to balance spending!</p>
-                <p>Use this online budget tracker that simplifies money management, by allowing uses to manage their funds anytime, even offline.</p>
-                <br></br>
-                <p>User can add expenses and deposits to their budget with or without a connection. </p>
-                <p>When entering transactions offline, they will populate the total when brought back online.</p>
-                <br></br>
-                <hr></hr>
-                <p><strong>Technologies:</strong> HTML, CSS, JS, Mongo Database, Mongoose Schema, RESTful APIs, PWA, IndexDB, Serviceworker</p>
+                
+                  Forget all about using a checkbook!
+                  Use this online budget tracker that simplifies money management, by allowing uses to manage their funds anytime, even offline.
+                
+                  User can add expenses and deposits to their budget with or without a connection.
+                  When entering transactions offline, they will populate the total when brought back online.
+                
+                
+                
+                <strong>Technologies:</strong> HTML, CSS, JS, Mongo Database, Mongoose Schema, RESTful APIs, PWA, IndexDB, Serviceworker.
                 </span>
               <p className="icon">
               <span><a href="https://budgettrackerjones.herokuapp.com/" target="_blank"><i className="icon-share3" />Demo</a></span>
@@ -135,14 +135,16 @@ function Projects() {
         <div className="project" style={{backgroundImage: 'url(images/fitnesstracker.png)'}}>
           <div className="desc">
             <div className="con">
-              <h3>Fitness Tracker</h3>
+              Fitness Tracker
               <span>
-                <p>Allows user to keep track of exercises completed and see excercise trends on the dashboard. </p>
-                <p>User will log excercise performed. This data will be added to the overall excercises, showing duration and </p>
-                <p>and excercise type, and used to show stats in the workout dashboard.</p>
-                <br></br>
-                <hr></hr>
-                <p><strong>Technologies:</strong> HTML, CSS, JQuery Mongo Database, Mongoose Schema, RESTful APIs</p>
+                <p>
+                  Allows user to keep track of exercises completed and see excercise trends on the dashboard. 
+                  User will log excercise performed. This data will be added to the overall excercises, showing duration, excercise type, and used to show stats in the workout dashboard.
+
+                </p>
+                
+                
+                <p><strong>Technologies:</strong> HTML, CSS, JQuery Mongo Database, Mongoose Schema, RESTful APIs.</p>
               </span>
               <p className="icon">
               <span><a href="https://fitness-tracker-jones.herokuapp.com/?id=5f39cf61aa9b630017035604" target="_blank"><i className="icon-share3" />Demo</a></span>
