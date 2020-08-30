@@ -25,7 +25,7 @@ function Projects() {
               Notes Application
               
               <span>
-                <p>Allows a user to utilize an online notes application for writing, saving and deleting notes.
+                <p>Allows a user to utilize an online notes application for writing, saving, and deleting notes.
                 Easy to use application removes the need for hand written notes that can be lost or easily damaged.
                 Designed to input notes that are saved to local storage and can be deleted when ready.</p>
                 
@@ -51,10 +51,7 @@ function Projects() {
               <span>                
                 Full Stack web application used to track your daily calories to help maintain weight loss goals.
                 The user can enter food eaten througout the day. On sumbit, the food item is logged, as well as the calories.
-                Food items can be deleted when no longer needed or if entered in the wrong meal section.
-                
-               
-                <strong>Technologies:</strong> HTML, CSS, JQuery, MVC, MySQL, Node, Express, Handlebars, Materialize, RESTful APIs, Heroku.
+                Food items can be deleted when no longer needed or if entered in the wrong meal section. <strong>Technologies:</strong> HTML, CSS, JQuery, MVC, MySQL, Node, Express, Handlebars, Materialize, RESTful APIs, Heroku.
               </span>
               <p className="icon">
               <span><a href="https://myfoodfriend.herokuapp.com/" target="_blank"><i className="icon-share3" />Demo</a></span>
@@ -73,7 +70,7 @@ function Projects() {
                 <p>A fun way to log and track yummy smoothies that have been gobbled up in your tummy or still waiting to be devoured.
                   User will input a smootie which is logged in the uneaten category. Each smoothie with a button to toggle between uneatern and devoured sections.
                 </p>                                
-                <strong>Technologies:</strong> HTML, CSS, JS, MVC, MySQL, Node, Express, Handlebars, ORM, RESTful APIs, Heroku, Bootstrap
+                <strong>Technologies:</strong> HTML, CSS, JS, MVC, MySQL, Node, Express, Handlebars, ORM, RESTful APIs, Heroku, Bootstrap.
               </span>
               <p className="icon">
               <span><a href="https://peaceful-oasis-89026.herokuapp.com/" target="_blank"><i className="icon-share3" />Demo</a></span>
@@ -96,7 +93,7 @@ function Projects() {
                   Each page contains a input field and search button. On click, the results display on the right side of the page.
                 </p>
                                                
-                <p><strong>Technologies:</strong> HTML, CSS, JQuery, Mongo Database, Zomato API, Spoonaclar API, Materialize</p>
+                <p><strong>Technologies:</strong> HTML, CSS, JQuery, Mongo Database, Zomato API, Spoonaclar API, Materialize.</p>
               </span>
               <p className="icon">
               <span><a href="https://tomay91.github.io/Foodacation-Project-1/" target="_blank"><i className="icon-share3" />Demo</a></span>
@@ -117,11 +114,7 @@ function Projects() {
                   Use this online budget tracker that simplifies money management, by allowing uses to manage their funds anytime, even offline.
                 
                   User can add expenses and deposits to their budget with or without a connection.
-                  When entering transactions offline, they will populate the total when brought back online.
-                
-                
-                
-                <strong>Technologies:</strong> HTML, CSS, JS, Mongo Database, Mongoose Schema, RESTful APIs, PWA, IndexDB, Serviceworker.
+                  When entering transactions offline, they will populate the total when brought back online. <strong>Technologies:</strong> HTML, CSS, JS, Mongo Database, Mongoose Schema, RESTful APIs, PWA, IndexDB, Serviceworker.
                 </span>
               <p className="icon">
               <span><a href="https://budgettrackerjones.herokuapp.com/" target="_blank"><i className="icon-share3" />Demo</a></span>
@@ -144,7 +137,7 @@ function Projects() {
                 </p>
                 
                 
-                <p><strong>Technologies:</strong> HTML, CSS, JQuery Mongo Database, Mongoose Schema, RESTful APIs.</p>
+                <p><strong>Technologies:</strong> HTML, CSS, JQuery, Mongo Database, Mongoose Schema, RESTful APIs.</p>
               </span>
               <p className="icon">
               <span><a href="https://fitness-tracker-jones.herokuapp.com/?id=5f39cf61aa9b630017035604" target="_blank"><i className="icon-share3" />Demo</a></span>
@@ -160,10 +153,10 @@ function Projects() {
             <div className="con">
               Beyond Notes
               <span>
-                <p>A fun way to log and track yummy smoothies that have been gobbled up in your tummy or still waiting to be devoured.
-                  User will input a smootie which is logged in the uneaten category. Each smoothie with a button to toggle between uneatern and devoured sections.
-                </p>                                
-                <strong>Technologies:</strong> HTML, CSS, JS, MVC, MySQL, Node, Express, Handlebars, ORM, RESTful APIs, Heroku, Bootstrap
+               
+                  Designed for more then taking notes. A user can: Create calendar events, dragging and dropping events to different dates. Click on a randomize option of
+                  inspirational quotes. Add, edit, abd delete notes. Create contacts that can be removed or updated. Upload profile picture of choice. 
+                  See the date with real time clock. <strong>Technologies:</strong> HTML, CSS, JQuery, Mongo Database, Mongoose Schema, Cloudinary, Moment js, Materialize, React Big Calendar, and more.
               </span>
               <p className="icon">
               <span><a href="https://beyondnotes.herokuapp.com/" target="_blank"><i className="icon-share3" />Demo</a></span>
