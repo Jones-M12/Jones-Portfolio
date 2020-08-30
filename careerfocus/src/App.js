@@ -4,6 +4,7 @@ import SideNavBar from './components/SideNavBar';
 import Home from './components/Home'
 import Skills from './components/Skills';
 import Projects from './components/Projects';
+import ContactMe from './components/ContactMe';
 
 
 
@@ -17,6 +18,7 @@ class App extends Component {
           <Home></Home>
           <Skills></Skills>
 					<Projects></Projects>
+          <ContactMe></ContactMe>
           </div>
       	</div>
       </div>
