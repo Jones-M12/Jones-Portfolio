@@ -154,6 +154,26 @@ function Projects() {
           </div>
         </div>
       </div>
+      <div className="col-md-6 animate-box" data-animate-effect="fadeInTop">
+        <div className="project" style={{backgroundImage: 'url(images/beyondnotes.png)'}}>
+          <div className="desc">
+            <div className="con">
+              Beyond Notes
+              <span>
+                <p>A fun way to log and track yummy smoothies that have been gobbled up in your tummy or still waiting to be devoured.
+                  User will input a smootie which is logged in the uneaten category. Each smoothie with a button to toggle between uneatern and devoured sections.
+                </p>                                
+                <strong>Technologies:</strong> HTML, CSS, JS, MVC, MySQL, Node, Express, Handlebars, ORM, RESTful APIs, Heroku, Bootstrap
+              </span>
+              <p className="icon">
+              <span><a href="https://beyondnotes.herokuapp.com/" target="_blank"><i className="icon-share3" />Demo</a></span>
+              <span><a href="https://github.com/team4project3/BeyondNotes" target="_blank"><i className="icon-eye" /> Github</a></span>
+                
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
     </div>
     <div className="row">
       <div className="col-md-12 animate-box">
