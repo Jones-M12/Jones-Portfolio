@@ -1,6 +1,22 @@
 # My React Portfolio
 
+[![Generic badge](https://img.shields.io/badge/VERSION-1.1.0-BROWN.svg)](https://shields.io/)
+
+[Repo: Notes Application](https://github.com/Jones-M12/Notes-Application-Jones)
+
+[Deployed Site: Notes Application Jones](https://notes-application-jones.herokuapp.com/)
+
+## Overview
+
 Transition basic HTML portfolio and other materials to build toward being employer competitive by Creating a portfolio using React 
+
+## User Story
+
+As a Web Developer
+
+I WANT to be able to showcase my skills.
+
+SO THAT I can move forward in my career and land the career of my dreams.
 
 
 #### Design
@@ -16,24 +32,11 @@ Transition basic HTML portfolio and other materials to build toward being employ
 ![Portfolio Project](./careerfocus/public/images/port2.PNG)
 
 
-### React
+## Contact Information
 
-Additionally, this new portfolio should be created using React.
+* Github: [Jones-M12](https://github.com/Jones-M12) 
 
-At a minimum, your portfolio should include the following:
+* Email: malesharj@gmail.com 
 
-* A `Header` component that appears on multiple pages
+* LindedIn: [m-jones89](https://www.linkedin.com/in/m-jones8
 
-* A single `Project` component that will be used multiple times on a single page 
-
-* Navigation with React Router, dynamic rendering, or another third part router
-
-* A `Footer` component that appears on multiple pages
-
-
-### Updated LinkedIn Profile 
-
-Make sure to update your LinkedIn Profile with the new skills you've acquired since the last time it was updated.
-
-- - -
-© 2019 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
