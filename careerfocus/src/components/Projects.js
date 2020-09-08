@@ -27,9 +27,9 @@ function Projects() {
               <span>
                 <p>Allows a user to utilize an online notes application for writing, saving, and deleting notes.
                 Easy to use application removes the need for hand written notes that can be lost or easily damaged.
-                Designed to input notes that are saved to local storage and can be deleted when ready.</p>
+                Designed backend to support creating, saving, and deleting notes using local storage </p>
                 
-                <p><strong>Technologies:</strong>  Node, Express, Handlebars, RESTful APIs, Backend, Heroku</p>
+                <p><strong>Technologies:</strong>  Node, Express, Handlebars, RESTful APIs, Heroku</p>
                 </span>
                
                 <br></br>
@@ -50,8 +50,8 @@ function Projects() {
               MyFoodFriend
               <span>                
                 Full Stack web application used to track your daily calories to help maintain weight loss goals.
-                The user can enter food eaten througout the day. On sumbit, the food item is logged, as well as the calories.
-                Food items can be deleted when no longer needed or if entered in the wrong meal section. <strong>Technologies:</strong> HTML, CSS, JQuery, MVC, MySQL, Node, Express, Handlebars, Materialize, RESTful APIs, Heroku.
+                Role: Built frontend and backend 
+                <strong>Technologies:</strong> HTML, CSS, JQuery, MVC, MySQL, Node, Express, Handlebars, Materialize, RESTful APIs, Heroku.
               </span>
               <p className="icon">
               <span><a href="https://myfoodfriend.herokuapp.com/" target="_blank"><i className="icon-share3" />Demo</a></span>
@@ -90,7 +90,7 @@ function Projects() {
                 <p>
                   Designed for your vacation needs! Use Foodaction while traveling to decide on eating in or dinning out.
                   User can toggle between the receipes or restaurants page.
-                  Each page contains a input field and search button. On click, the results display on the right side of the page.
+                  Roles: Built frontend page layout and setup Zomato API to work for location search restults.
                 </p>
                                                
                 <p><strong>Technologies:</strong> HTML, CSS, JQuery, Mongo Database, Zomato API, Spoonaclar API, Materialize.</p>
@@ -133,7 +133,7 @@ function Projects() {
                 <p>
                   Allows user to keep track of exercises completed and see excercise trends on the dashboard. 
                   User will log excercise performed. This data will be added to the overall excercises, showing duration, excercise type, and used to show stats in the workout dashboard.
-
+                  Created the backend of Fitness Tracker using Mongo and deploy on heroku with Atlas. Implemeted with a Mongoose schema and handle routes and Express.
                 </p>
                 
                 

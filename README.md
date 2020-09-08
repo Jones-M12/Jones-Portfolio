@@ -34,9 +34,9 @@ SO THAT I can move forward in my career and land the career of my dreams.
 
 ## Contact Information
 
-* Github: [Jones-M12](https://github.com/Jones-M12) 
+* GitHub: [Jones-M12](https://github.com/Jones-M12) 
 
 * Email: malesharj@gmail.com 
 
-* LindedIn: [m-jones89](https://www.linkedin.com/in/m-jones8
+* LinkedIn: [m-jones89](https://www.linkedin.com/in/m-jones8
 

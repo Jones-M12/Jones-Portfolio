@@ -17,7 +17,7 @@ function Home() {
                             <div className="slider-text-inner js-fullheight">
                                 <div className="desc">
                                 <h1>Hi! <br />I'm Malesha</h1>                                
-                                <p><a href="https://drive.google.com/file/d/1p_xtYILLh8rULDDxDJ81_vAH3IiT6zpB/view?usp=sharing" target="_blank" className="btn btn-primary btn-learn">Resume<i className="icon-download4" /></a></p>
+                                <p><a href="https://drive.google.com/file/d/1ThlDyIrxfGnGr4JpcEBZBvrPzFKN4GIU/view?usp=sharing" target="_blank" className="btn btn-primary btn-learn">Resume<i className="icon-download4" /></a></p>
                                 </div>
                             </div>
                             </div>
@@ -34,7 +34,7 @@ function Home() {
                                 <h2><strong>Hello there. Welcome!</strong></h2>
                                 <p><strong>Who am I you wonder? </strong> I am Malesha, an adveneturer who loves diving into the depths of technology.
                                     Throughout my explorations of success, I have become a Information System Project Management gradute from Strayer University that has
-                                    transistion into a Full Stack Web Developer from UNC Chapel Hill.
+                                    transitioned into a Full Stack Web Developer from UNC Chapel Hill.
                                 </p>
 
                                 <br></br>
