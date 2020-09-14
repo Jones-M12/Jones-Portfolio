@@ -38,5 +38,5 @@ SO THAT I can move forward in my career and land the career of my dreams.
 
 * Email: malesharj@gmail.com 
 
-* LinkedIn: [m-jones89](https://www.linkedin.com/in/m-jones8
+* LinkedIn: [m-jones89](https://www.linkedin.com/in/m-jones8)
 
