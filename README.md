@@ -4,7 +4,7 @@
 
 [Repo: React Portfolio](https://github.com/Jones-M12/Jones-Portfolio.git)
 
-[Deployed Site: React Portfolio](https://github.com/Jones-M12/Jones-Portfolio.git)
+[Deployed Site: React Portfolio](https://jones-m12.github.io/Jones-Portfolio/)
 
 ## Overview
 
