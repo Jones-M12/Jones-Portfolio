@@ -2,9 +2,9 @@
 
 [![Generic badge](https://img.shields.io/badge/VERSION-1.1.0-BROWN.svg)](https://shields.io/)
 
-[Repo: React Portfolio]https://github.com/Jones-M12/Jones-Portfolio.git)
+[Repo: React Portfolio](https://github.com/Jones-M12/Jones-Portfolio.git)
 
-[Deployed Site: React Portfolio](https://notes-application-jones.herokuapp.com/)
+[Deployed Site: React Portfolio](https://github.com/Jones-M12/Jones-Portfolio.git)
 
 ## Overview
 
