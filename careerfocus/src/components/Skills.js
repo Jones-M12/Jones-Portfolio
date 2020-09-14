@@ -38,7 +38,7 @@ function Skills() {
 						<div class="services color-4">
 							<p><img src="./images/jquery.png" width="75" height="75" ></img></p>
 							<br></br>
-							<h3>Jquery</h3>
+							<h3>jQuery</h3>
 						</div>
 					</div>
 				</div>
