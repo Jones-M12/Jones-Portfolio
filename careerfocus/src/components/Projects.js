@@ -28,10 +28,10 @@ function Projects() {
                 <p>
                 Allows a user to utilize an online notes application for writing, saving, and deleting notes.
                 Easy to use application removes the need for handwritten notes that can be lost or easily damaged.
-                Designed backend to support creating, saving, and deleting notes using local storage 
+                Designed backend to support creating, saving, and deleting notes using local storage.
                 </p>
                 
-                <p><strong>Technologies:</strong>  Node, Express, Handlebars, RESTful APIs, Heroku</p>
+                <p><strong>Technologies:</strong> Node, Express, Handlebars, RESTful APIs, Heroku.</p>
                 </span>
                
                 <br></br>
@@ -153,7 +153,7 @@ function Projects() {
           </div>
         </div>
       </div>
-      <div className="col-md-6 animate-box" data-animate-effect="fadeInTop">
+      {/* <div className="col-md-6 animate-box" data-animate-effect="fadeInTop">
         <div className="project" style={{backgroundImage: 'url(images/beyondnotes.png)'}}>
           <div className="desc">
             <div className="con">
@@ -171,7 +171,7 @@ function Projects() {
             </div>
           </div>
         </div>
-      </div>
+      </div> */}
       <div className="col-md-6 animate-box" data-animate-effect="fadeInRight">
         <div className="project" style={{backgroundImage: 'url(images/myfoodfriend-memberpage-nvabar.png)'}}>
           <div className="desc">
