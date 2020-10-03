@@ -152,8 +152,7 @@ function Projects() {
             </div>
           </div>
         </div>
-      </div>
-      
+      </div>      
       <div className="col-md-6 animate-box" data-animate-effect="fadeInRight">
         <div className="project" style={{backgroundImage: 'url(images/myfoodfriend-memberpage-nvabar.png)'}}>
           <div className="desc">
@@ -172,6 +171,25 @@ function Projects() {
           </div>
         </div>
       </div>
+      {/* <div className="col-md-6 animate-box" data-animate-effect="fadeInTop">
+        <div className="project" style={{backgroundImage: 'url(images/beyondnotes.png)'}}>
+          <div className="desc">
+            <div className="con">
+              Beyond Notes: MERN
+              <span>               
+              Designed for more. Create notes, events, see inspirational quotes, upload a photo, and add contacts.
+              Role: Build Nav Menu, Image Uploader and Upload layout, Setup connection and schema for frontend/sever side login and register authentication, implement Cloudinary, Momenet.js. <strong>Technologies:</strong> HTML, CSS, jQuery, Mongo Database, Mongoose Schema, Cloudinary, Moment.js, Materialize, React Big Calendar, and more.
+
+              </span>
+              <p className="icon">
+              <span><a href="https://beyondnotes.herokuapp.com/" target="_blank"><i className="icon-share3" />Demo</a></span>
+              <span><a href="https://github.com/team4project3/BeyondNotes" target="_blank"><i className="icon-eye" /> Github</a></span>
+                
+              </p>
+            </div>
+          </div>
+        </div>
+      </div> */}
     </div>
     <div className="row">
       <div className="col-md-12 animate-box">

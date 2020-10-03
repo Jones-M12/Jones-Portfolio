@@ -17,7 +17,7 @@ function Home() {
                             <div className="slider-text-inner js-fullheight">
                                 <div className="desc">
                                 <h1>Hi! <br />I'm Malesha</h1>                                
-                                <p><a href="https://drive.google.com/file/d/1ThlDyIrxfGnGr4JpcEBZBvrPzFKN4GIU/view?usp=sharing" target="_blank" className="btn btn-primary btn-learn">Resume<i className="icon-download4" /></a></p>
+                                <p><a href="https://drive.google.com/file/d/1DgLph7zz7gIO1ejJhN0VyRa709uHmYS0/view?usp=sharing" target="_blank" className="btn btn-primary btn-learn">Resume<i className="icon-download4" /></a></p>
                                 </div>
                             </div>
                             </div>
